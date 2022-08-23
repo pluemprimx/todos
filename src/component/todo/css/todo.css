@@ -1,0 +1,28 @@
+/* .main_card{
+    background-color:rgb(212, 212, 212);
+    border-radius: 0.5rem;
+} */
+.text-1{
+    font-size: 24px;
+    font-weight: 500;
+    color: #13438F;
+}
+.text-2{
+    font-size: 20px;
+    font-weight: 500;
+    color: #13438F;
+}
+.text-3{
+    font-size: 18px;
+    font-weight: 500;
+    color: #6183bb;
+}
+
+.card_container{
+    background-color:#FCFBFD;
+    border-radius: 0.5rem;
+    padding: 20px;
+}
+.card_body{
+    margin: 5px;
+}
